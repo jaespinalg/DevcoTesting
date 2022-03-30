@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Yo como usuario requiero poder observar las atraciones turisticas para mi viaje donde se pueda visualizar" tests="3" skipped="0" failures="3" errors="0" timestamp="2022-03-30T01:50:23" hostname="DESKTOP-O8KJUUU" time="1.115">
+  <properties/>
+  <testcase name="yo como usuario requiero poder ver las diferentes atracciones" classname="Yo como usuario requiero poder observar las atraciones turisticas para mi viaje donde se pueda visualizar" time="0.848">
+    <failure message="io.cucumber.junit.UndefinedStepException: The step 'que ingreso a la pagina principal de booking' and 4 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Given(&quot;que ingreso a la pagina principal de booking&quot;)&#10;public void que_ingreso_a_la_pagina_principal_de_booking() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;selecciono el boton atracciones turisticas&quot;)&#10;public void selecciono_el_boton_atracciones_turisticas() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;se habilita la opcion de ingresar atraccion&quot;)&#10;public void se_habilita_la_opcion_de_ingresar_atraccion() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;se selecciona el boton buscar&quot;)&#10;public void se_selecciona_el_boton_buscar() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Then(&quot;se visualiza de forma exitosa las diferentes opciones turisticas&quot;)&#10;public void se_visualiza_de_forma_exitosa_las_diferentes_opciones_turisticas() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step 'que ingreso a la pagina principal de booking' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given(&quot;que ingreso a la pagina principal de booking&quot;)
+public void que_ingreso_a_la_pagina_principal_de_booking() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;selecciono el boton atracciones turisticas&quot;)
+public void selecciono_el_boton_atracciones_turisticas() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;se habilita la opcion de ingresar atraccion&quot;)
+public void se_habilita_la_opcion_de_ingresar_atraccion() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;se selecciona el boton buscar&quot;)
+public void se_selecciona_el_boton_buscar() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then(&quot;se visualiza de forma exitosa las diferentes opciones turisticas&quot;)
+public void se_visualiza_de_forma_exitosa_las_diferentes_opciones_turisticas() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</failure>
+  </testcase>
+  <testcase name="yo como usuario requiero poder ver la atraccion turistica museos que se ofrecen en booking #1" classname="Yo como usuario requiero poder observar las atraciones turisticas para mi viaje donde se pueda visualizar" time="0.137">
+    <failure message="io.cucumber.junit.UndefinedStepException: The step 'que ingreso a la pagina principal de booking' and 4 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Given(&quot;que ingreso a la pagina principal de booking&quot;)&#10;public void que_ingreso_a_la_pagina_principal_de_booking() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;selecciono el boton atracciones turisticas&quot;)&#10;public void selecciono_el_boton_atracciones_turisticas() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;se habilita la opcion de ingresar atraccion donde se escribe museo&quot;)&#10;public void se_habilita_la_opcion_de_ingresar_atraccion_donde_se_escribe_museo() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;se selecciona el boton buscar&quot;)&#10;public void se_selecciona_el_boton_buscar() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Then(&quot;se visualiza de forma exitosa las diferentes museos&quot;)&#10;public void se_visualiza_de_forma_exitosa_las_diferentes_museos() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step 'que ingreso a la pagina principal de booking' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given(&quot;que ingreso a la pagina principal de booking&quot;)
+public void que_ingreso_a_la_pagina_principal_de_booking() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;selecciono el boton atracciones turisticas&quot;)
+public void selecciono_el_boton_atracciones_turisticas() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;se habilita la opcion de ingresar atraccion donde se escribe museo&quot;)
+public void se_habilita_la_opcion_de_ingresar_atraccion_donde_se_escribe_museo() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;se selecciona el boton buscar&quot;)
+public void se_selecciona_el_boton_buscar() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then(&quot;se visualiza de forma exitosa las diferentes museos&quot;)
+public void se_visualiza_de_forma_exitosa_las_diferentes_museos() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</failure>
+  </testcase>
+  <testcase name="yo como usuario requiero poder ver la atraccion turistica museos que se ofrecen en booking #2" classname="Yo como usuario requiero poder observar las atraciones turisticas para mi viaje donde se pueda visualizar" time="0.128">
+    <failure message="io.cucumber.junit.UndefinedStepException: The step 'que ingreso a la pagina principal de booking' and 4 other step(s) are undefined.&#10;You can implement these steps using the snippet(s) below:&#10;&#10;@Given(&quot;que ingreso a la pagina principal de booking&quot;)&#10;public void que_ingreso_a_la_pagina_principal_de_booking() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;selecciono el boton atracciones turisticas&quot;)&#10;public void selecciono_el_boton_atracciones_turisticas() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;se habilita la opcion de ingresar atraccion donde se escribe tours&quot;)&#10;public void se_habilita_la_opcion_de_ingresar_atraccion_donde_se_escribe_tours() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@When(&quot;se selecciona el boton buscar&quot;)&#10;public void se_selecciona_el_boton_buscar() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;@Then(&quot;se visualiza de forma exitosa los diferentes museos&quot;)&#10;public void se_visualiza_de_forma_exitosa_los_diferentes_museos() {&#10;    // Write code here that turns the phrase above into concrete actions&#10;    throw new io.cucumber.java.PendingException();&#10;}&#10;" type="io.cucumber.junit.UndefinedStepException">io.cucumber.junit.UndefinedStepException: The step 'que ingreso a la pagina principal de booking' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given(&quot;que ingreso a la pagina principal de booking&quot;)
+public void que_ingreso_a_la_pagina_principal_de_booking() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;selecciono el boton atracciones turisticas&quot;)
+public void selecciono_el_boton_atracciones_turisticas() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;se habilita la opcion de ingresar atraccion donde se escribe tours&quot;)
+public void se_habilita_la_opcion_de_ingresar_atraccion_donde_se_escribe_tours() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When(&quot;se selecciona el boton buscar&quot;)
+public void se_selecciona_el_boton_buscar() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then(&quot;se visualiza de forma exitosa los diferentes museos&quot;)
+public void se_visualiza_de_forma_exitosa_los_diferentes_museos() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -17,8 +17,15 @@ version '1.0-SNAPSHOT'
 repositories {
     mavenCentral()
 }
+ext{
+    serenityVersion= '2.1.4'
+    serenityCucumberVersion = '1.9.50'
+}
 
 dependencies {
     testImplementation group: 'junit', name: 'junit', version: '4.12'
     implementation group: 'net.serenity-bdd', name: 'serenity-cucumber', version: '3.2.0'
+    implementation group: 'net.serenity-bdd', name: 'serenity-core', version: '3.2.0'
+    implementation group: 'net.serenity-bdd', name: 'serenity-screenplay', version: '3.2.0'
+    implementation group: 'net.serenity-bdd', name: 'serenity-screenplay-webdriver', version: '3.2.0'
 }
